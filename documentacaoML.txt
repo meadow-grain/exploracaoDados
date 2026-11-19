@@ -1,0 +1,23 @@
+Etapa 1 do projeto: primeiro CRISP-DM (entendimento do negócio e dos dados)
+Entregue este documento antes de abrir qualquer código. Ele é a base de todo o projeto: se a pergunta estiver errada, o modelo mais bonito do mundo não serve para nada.
+
+Nome: ______________________ Dataset escolhido: ______________________
+
+Fase 1: Entendimento do negócio (CRISP-DM)
+1.1 Contexto. Quem é o cliente ou o processo? Qual a situação atual, e o que acontece hoje sem o modelo?
+
+1.2 Decisão apoiada pelo modelo. Que decisão alguém vai tomar com a previsão? Quem toma essa decisão?
+
+1.3 Objetivo de negócio. O que deve melhorar, e em quanto? Escreva em uma frase com número.
+
+1.4 Recursos, riscos e custos. Quais dados, pessoas e ferramentas existem? O que dá errado e quanto custa cada tipo de erro?
+
+Erro de falso positivo custa: _______________________________
+Erro de falso negativo custa: _______________________________
+1.5 Critério de sucesso (KPI). Qual número, medido de forma técnica, prova que o projeto deu certo? Coloque também um valor mínimo aceitável.
+
+Métrica: ____________ Valor mínimo: ____________ Por quê essa métrica: ____________________
+
+1.6 Pergunta de ML. Traduza o objetivo em uma pergunta técnica.
+
+Tipo de problema (regressão / classificação / agrupamento): __________ Label (o que prever): ____________________________________________
